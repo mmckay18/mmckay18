@@ -89,3 +89,27 @@ Let’s connect! Feel free to reach out through my social links or email. Lookin
     </td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <!-- Image (left) -->
+    <td width="300">
+      <a href="https://github.com/mmckay18/hardhat_detection_on_construction_site" target="_blank">
+        <img src="https://github.com/mmckay18/hardhat_detection_on_construction_site/blob/main/annotated_videos_results/annotated_Construction_vid_1-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Hard Hat Detection Demo" width="100%" />
+      </a>
+    </td>
+
+  <!-- Text content (right) -->
+  <td valign="top">
+      <a href="https://github.com/mmckay18/hardhat_detection_on_construction_site" target="_blank"><strong>🔗 Construction Hard Hat Detection</strong></a>
+      <p>Trained an object detection model to identify workers wearing or missing hard hats in real-time video streams. Useful for enhancing construction site safety monitoring.</p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
+      </p>
+    </td>
+  </tr>
+</table>
