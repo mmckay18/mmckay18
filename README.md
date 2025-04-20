@@ -113,3 +113,29 @@ Let’s connect! Feel free to reach out through my social links or email. Lookin
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <!-- Image (left) -->
+    <td width="300">
+      <a href="https://github.com/mmckay18/medical_imaging_DeepLearning_Projects" target="_blank">
+        <img src="https://github.com/mmckay18/medical_imaging_DeepLearning_Projects/blob/main/xray_pneumonia_classification/Visualizations/raw_training_images.jpeg?raw=true" alt="Chest X-Ray Pneumonia Detection" width="100%" />
+      </a>
+    </td>
+
+  <!-- Text content (right) -->
+  <td valign="top">
+      <a href="https://github.com/mmckay18/medical_imaging_DeepLearning_Projects" target="_blank"><strong>🔗 Chest X-ray Pneumonia Detection</strong></a>
+      <p>Developed a CNN-based deep learning model to classify chest X-rays as normal or pneumonia using TensorFlow/Keras. Included image preprocessing, data augmentation, and evaluation of performance metrics.</p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="Kaggle" />
+      </p>
+    </td>
+  </tr>
+</table>
+
