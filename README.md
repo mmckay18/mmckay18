@@ -139,3 +139,25 @@ Let’s connect! Feel free to reach out through my social links or email. Lookin
   </tr>
 </table>
 
+<table>
+  <tr>
+    <!-- Image (left) -->
+    <td width="300">
+      <a href="https://github.com/mmckay18/phat_pypipeline_repo" target="_blank">
+        <img src="https://github.com/mmckay18/phat_pypipeline_repo/blob/main/images/phat_pipeline.png?raw=true" alt="PHAT Photometry Pipeline" width="100%" />
+      </a>
+    </td>
+
+  <!-- Text content (right) -->
+  <td valign="top">
+      <a href="https://github.com/mmckay18/phat_pypipeline_repo" target="_blank"><strong>🔗 Photometry Data Pipeline</strong></a>
+      <p>Developed a Python pipeline to automate photometric calibration for HST-based data in the PHAT and PHAST surveys. The pipeline streamlines data extraction, filtering, quality checks, and prepares catalogs for scientific analysis.</p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+         <img src="https://www.svgrepo.com/show/353449/aws-ec2.svg" height="30" alt="AWS EC2" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="30" alt="Perl" />
+      </p>
+    </td>
+  </tr>
+</table>
