@@ -61,36 +61,31 @@ Let’s connect! Feel free to reach out through my social links or email. Lookin
   <img src="https://www.svgrepo.com/show/349386/google-calendar.svg" height="40" alt="Google Calendar logo" />
 </div>
 
-## Portfolio Projects:
+
+## Portfolio Projects
 
 <!-- Project 1 -->
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+<table>
+  <tr>
+    <!-- Image (left) -->
+    <td width="300">
+      <a href="https://github.com/mmckay18/phast_rgbstars_mdf" target="_blank">
+        <img src="https://github.com/mmckay18/phast_rgbstars_mdf/blob/master/images/m31_RGB_phat_phast_mdf.jpeg?raw=true" alt="Project 1 Image" width="100%" />
+      </a>
+    </td>
 
-  <!-- Left: Project Image -->
-  <div>
-    <a href="https://github.com/mmckay18/phast_rgbstars_mdf" target="_blank">
-      <img src="https://github.com/mmckay18/phast_rgbstars_mdf/blob/master/images/m31_RGB_phat_phast_mdf.jpeg?raw=true" alt="Project 1 Image" width="300" />
-    </a>
-  </div>
-
-  <!-- Right: Repo Info -->
-  <div>
-    <a href="https://github.com/mmckay18/phast_rgbstars_mdf" target="_blank">
-      <strong>🔗 Project 1: Stellar Metallicity Distributions with PHAT/PHAST</strong>
-    </a>
-    <p>
-      Used RGB stars from PHAST and PHAT data to derive metallicity distribution functions across the disk of M31. Developed tools for photometric filtering, binning, and spatial visualization of the stellar populations.
-    </p>
-
-    <!-- Tool Icons -->
-  <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-      <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" height="30" alt="Seaborn" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="30" alt="Plotly" />
-      <img src="https://www.svgrepo.com/show/354427/tableau.svg" height="30" alt="Tableau" />
-    </div>
-  </div>
-
-</div>
+  <!-- Text content (right) -->
+  <td valign="top">
+      <a href="https://github.com/mmckay18/phast_rgbstars_mdf" target="_blank"><strong>🔗 Stellar Metallicity Distributions with PHAT/PHAST</strong></a>
+      <p>Used RGB stars from PHAST and PHAT data to derive metallicity distribution functions across the disk of M31. Developed tools for photometric filtering, binning, and spatial visualization of the stellar populations.</p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+        <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" height="30" alt="Seaborn" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="30" alt="Plotly" />
+        <img src="https://www.svgrepo.com/show/354427/tableau.svg" height="30" alt="Tableau" />
+      </p>
+    </td>
+  </tr>
+</table>
