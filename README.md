@@ -144,7 +144,7 @@ Let’s connect! Feel free to reach out through my social links or email. Lookin
     <!-- Image (left) -->
     <td width="300">
       <a href="https://github.com/mmckay18/phat_pypipeline_repo" target="_blank">
-        <img src="https://github.com/mmckay18/phat_pypipeline_repo/blob/main/images/phat_pipeline.png?raw=true" alt="PHAT Photometry Pipeline" width="100%" />
+        <img src="https://github.com/mmckay18/mmckay18/blob/main/assets/m31_stars_from_HST.jpeg?raw=true" alt="PHAT Photometry Pipeline" width="100%" />
       </a>
     </td>
 
