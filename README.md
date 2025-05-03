@@ -10,6 +10,7 @@ Welcome to my corner of the Universe! I'm a data analyst and scientist with over
 ---
 
 ### ☕ When I’m not coding or analyzing data:
+- Going on adventures with my beautiful family
 - I’m experimenting with loose-leaf teas and blending my own flavors  
 - Getting lost in the worlds of video games  
 - Enjoying peaceful moments watching water and nature  
