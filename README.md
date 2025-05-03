@@ -1,4 +1,7 @@
-# Hi, I'm Myles! 👋
+# Hi, I'm Myles! 👋🏾
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/myles-mckay/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/mmckay18)
 
 
 ## About Me 
